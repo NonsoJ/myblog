@@ -28,7 +28,8 @@ twitter_username: nonso__j
 github_username: NonsoJ
 
 # Build settings
-theme: minima
+#removed the minima theme
+#theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
